@@ -9,7 +9,7 @@ Click the Fork button
 
 Open terminal and navigate to your desired directory and type:
 
-git clone  https://github.com/YOUR_USER_NAME/teaching-web-dev.git
+git clone  'https://github.com/YOUR_USER_NAME/teaching-web-dev.git'
 
 Now open up the directory in your favorite IDE/text-editor
 
