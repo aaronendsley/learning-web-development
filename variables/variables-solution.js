@@ -17,3 +17,6 @@ If you get confused at any time above is a link to the MDN doc on Javascript Var
 
 // Store a Boolean value in a variable
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean
+
+// console.log  your answers
+//https://developer.mozilla.org/en-US/docs/Web/API/Console/log
