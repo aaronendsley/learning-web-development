@@ -13,7 +13,8 @@ If you get confused at any time above is a link to the MDN doc on Javascript Var
 
 var x;
 
-var hello;                       //short names that make sense are best
+var hello;                       //Variable names should be descriptive and understandable
+                                 //for you and others who might look at your code later on
 
 var stuffBeingDoneSlightlyRight; //long variable names aren't suggested but are possible
 
