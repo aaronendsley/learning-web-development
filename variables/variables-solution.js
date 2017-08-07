@@ -16,7 +16,7 @@ var x;
 var hello;                       //Variable names should be descriptive and understandable
                                  //for you and others who might look at your code later on
 
-var stuffBeingDoneSlightlyRight; //long variable names aren't suggested but are possible
+var stuffBeingDoneSlightlyRight; 
 
 // Store a string in a variable
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
