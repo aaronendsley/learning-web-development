@@ -1,5 +1,5 @@
 ///get data from a prompt that is stored in a variable
-//https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt4
+//https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt
 
 // console.log your variable that is storing your data from your prompt
 //https://developer.mozilla.org/en-US/docs/Web/API/Console/log
