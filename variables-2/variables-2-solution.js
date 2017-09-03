@@ -51,8 +51,8 @@ console.log (minus);
 
 var notx = 12;
 var definitelyx = 34;
-var times = notx * definitelyx;
-console.log (times);
+var multiply = notx * definitelyx;
+console.log (multiply);
 
 
 // create two variables with two different numbers, create a third variable and division the other two variables inside it.
@@ -61,5 +61,5 @@ console.log (times);
 
 var someY = 37;
 var kindaY = 9;
-var divides = someY / kindaY;
-console.log (divides);
+var divide = someY / kindaY;
+console.log (divide);
