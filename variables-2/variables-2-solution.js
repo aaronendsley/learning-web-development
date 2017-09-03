@@ -61,5 +61,5 @@ console.log (multiply);
 
 var thirtySeven = 37;
 var nine = 9;
-var divide = someY / kindaY;
+var divide = thirtySeven / nine;
 console.log (divide);
