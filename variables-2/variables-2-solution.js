@@ -49,9 +49,9 @@ console.log (minus);
 // console.log your solution
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators
 
-var notx = 12;
-var definitelyx = 34;
-var multiply = notx * definitelyx;
+var twelve = 12;
+var thirtyFour = 34;
+var multiply = twelve * thrityFour;
 console.log (multiply);
 
 
@@ -59,7 +59,7 @@ console.log (multiply);
 // console.log your solution
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators
 
-var someY = 37;
-var kindaY = 9;
+var thirtySeven = 37;
+var nine = 9;
 var divide = someY / kindaY;
 console.log (divide);
